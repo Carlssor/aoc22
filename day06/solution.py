@@ -1,6 +1,4 @@
-import collections
 import os
-import re
 
 
 def read_input() -> str:
